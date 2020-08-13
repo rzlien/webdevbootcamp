@@ -1,0 +1,27 @@
+body {
+    font-family: 'Source Sans Pro', sans-serif;
+    border: 30px solid #bdc3c7;
+    padding: 30px;
+    padding-top: 0;
+    max-width: 700px;
+    width: 80%;
+    margin:  20px auto;
+    font-size: 16px;
+}
+
+.date {
+    color: #3498db;
+    font-variant: small-caps;
+    letter-spacing: 2px;
+    font-size: 1.2em;
+}
+
+h2{
+    color: #2c3e50;
+    font-size: 2em;
+}
+
+.blockquote {
+    border-left: 7px solid #bdc3c7;
+    padding-left: 8px;
+}
